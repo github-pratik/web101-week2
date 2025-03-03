@@ -29,13 +29,7 @@ The following **additional** features are implemented:
 * [x] Improved UI with larger elements for better readability
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with your walkthrough GIF -->
-GIF created with [ScreenToGif](https://www.screentogif.com/) / [Kap](https://getkap.co/)
+<img src="https://github.com/github-pratik/web101-week2/blob/main/project2.gif" alt="Demo of Flash Card" width="400">
 
 ## Notes
 
